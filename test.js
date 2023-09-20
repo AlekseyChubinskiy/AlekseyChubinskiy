@@ -1,1 +1,2 @@
 hello "garret";
+doctype pulic
